@@ -1,217 +1,217 @@
 Country,TotalCases,ActiveCases,TotalRecovered,TotalDeaths
-World,24 602 840,6 696 167,17 071 962,834 711
-US, 6 043 742,2 516 122, 3 342 899,184 721
-Brazil, 3 764 493,  698 517, 2 947 250,118 726
-India, 3 384 575,  739 818, 2 583 063, 61 694
-Russia,   975 576,  166 211,   792 561, 16 804
-South Africa,   618 286,   73 320,   531 338, 13 628
-Peru,   613 378,  163 377,   421 877, 28 124
-Colombia,   582 022,  145 761,   417 793, 18 468
-Mexico,   573 888,  115 054,   396 758, 62 076
-Spain,   451 792,       NA,        NA, 28 996
-Chile,   404 102,   15 108,   377 922, 11 072
-Argentina,   380 292,   97 784,   274 458,  8 050
-Iran,   367 796,   30 021,   316 638, 21 137
-United Kingdom,   330 368,       NA,        NA, 41 477
-Saudi Arabia,   311 855,   21 815,   286 255,  3 785
-Bangladesh,   304 583,  106 998,   193 458,  4 127
-Pakistan,   294 638,    8 803,   279 561,  6 274
-Turkey,   263 998,   16 997,   240 792,  6 209
-Italy,   263 949,   21 932,   206 554, 35 463
-France,   259 698,  143 138,    85 984, 30 576
-Germany,   240 565,   15 711,   215 495,  9 359
-Iraq,   219 435,   51 686,   161 009,  6 740
-Philippines,   205 581,   68 357,   133 990,  3 234
-Indonesia,   162 884,   37 245,   118 575,  7 064
-Canada*,   126 780,    4 908,   112 771,  9 101
-Qatar,   117 988,    2 996,   114 797,    195
-Bolivia,   112 094,   56 971,    50 397,  4 726
-Ukraine,   112 059,   55 439,    54 217,  2 403
-Ecuador,   111 219,    9 546,    95 202,  6 471
-Israel,   110 403,   21 793,    87 726,    884
-Kazakhstan,   105 243,    9 007,    94 713,  1 523
-Egypt,    98 062,   23 108,    69 612,  5 342
-Dominican Republic,    92 964,   26 987,    64 347,  1 630
-Panama,    89 982,   24 038,    63 996,  1 948
+World,24 887 973,6 773 692,17 273 871,840 410
+US, 6 093 061,2 536 670, 3 370 539,185 852
+Brazil, 3 812 605,  716 215, 2 976 796,119 594
+India, 3 461 240,  750 989, 2 647 538, 62 713
+Russia,   980 405,  165 025,   798 466, 16 914
+Peru,   621 997,  164 058,   429 662, 28 277
+South Africa,   620 132,   72 454,   533 935, 13 743
+Colombia,   590 520,  142 133,   429 620, 18 767
+Mexico,   579 914,  116 841,   400 479, 62 594
+Spain,   455 621,       NA,        NA, 29 011
+Chile,   405 972,   15 388,   379 452, 11 132
+Argentina,   392 009,  103 573,   280 165,  8 271
+Iran,   369 911,   30 392,   318 270, 21 249
+United Kingdom,   331 644,       NA,        NA, 41 486
+Saudi Arabia,   312 924,   21 708,   287 403,  3 813
+Bangladesh,   306 794,  105 784,   196 836,  4 174
+Pakistan,   295 053,    8 833,   279 937,  6 283
+France,   267 077,  150 304,    86 177, 30 596
+Turkey,   265 515,   17 461,   241 809,  6 245
+Italy,   265 409,   23 035,   206 902, 35 472
+Germany,   242 101,   17 246,   215 495,  9 360
+Iraq,   223 612,   51 924,   164 874,  6 814
+Philippines,   209 544,   71 745,   134 474,  3 325
+Indonesia,   165 887,   37 818,   120 900,  7 169
+Canada*,   127 358,    5 016,   113 234,  9 108
+Qatar,   118 196,    2 983,   115 017,    196
+Ukraine,   114 497,   56 963,    55 083,  2 451
+Bolivia,   113 129,   55 817,    52 521,  4 791
+Ecuador,   112 141,   10 326,    95 311,  6 504
+Israel,   112 000,   20 055,    91 051,    894
+Kazakhstan,   105 408,    8 632,    95 253,  1 523
+Egypt,    98 285,   22 504,    70 419,  5 362
+Dominican Republic,    93 390,   26 457,    65 285,  1 648
+Panama,    90 624,   24 056,    64 602,  1 966
 Oman,    85 005,    4 747,    79 608,    650
-Sweden,    83 898,       NA,        NA,  5 820
-Romania,    83 150,   43 014,    36 677,  3 459
-Belgium,    83 030,   54 820,    18 331,  9 879
-Kuwait,    82 945,    7 901,    74 522,    522
-Guatemala,    71 856,    9 530,    59 641,  2 685
-Belarus,    71 165,      853,    69 650,    662
-Netherlands,    68 624,       NA,        NA,  6 218
-United Arab Emirates,    68 511,    8 661,    59 472,    378
-Poland,    64 689,   18 582,    44 097,  2 010
-Japan,    64 668,   10 619,    52 823,  1 226
-Morocco,    57 085,   14 173,    41 901,  1 011
-Portugal,    56 673,   13 507,    41 357,  1 809
-Honduras,    56 649,   45 733,     9 169,  1 747
-Singapore,    56 572,    1 406,    55 139,     27
-Nigeria,    53 317,   11 580,    40 726,  1 011
-Bahrain,    50 756,    3 198,    47 370,    188
-Ethiopia,    46 407,   28 833,    16 829,    745
+Romania,    84 468,   43 905,    37 056,  3 507
+Sweden,    83 958,       NA,        NA,  5 821
+Kuwait,    83 578,    7 733,    75 320,    525
+Belgium,    83 500,   55 256,    18 360,  9 884
+Guatemala,    72 921,    9 678,    60 534,  2 709
+Belarus,    71 346,      792,    69 887,    667
+Netherlands,    69 131,       NA,        NA,  6 220
+United Arab Emirates,    68 901,    8 661,    59 861,    379
+Japan,    65 573,   10 340,    53 995,  1 238
+Poland,    65 480,   18 677,    44 785,  2 018
+Morocco,    58 489,   14 388,    43 049,  1 052
+Honduras,    57 669,   46 280,     9 586,  1 803
+Portugal,    57 074,   13 703,    41 556,  1 815
+Singapore,    56 666,    1 302,    55 337,     27
+Nigeria,    53 477,   11 449,    41 017,  1 011
+Bahrain,    51 113,    3 164,    47 760,    189
+Ethiopia,    48 140,   29 967,    17 415,    758
 Ghana,    43 841,    1 325,    42 246,    270
-Kyrgyzstan,    43 459,    4 910,    37 492,  1 057
-Armenia,    43 270,    5 418,    36 988,    864
-Algeria,    43 016,   11 384,    30 157,  1 475
-Venezuela,    41 965,    8 683,    32 931,    351
-Switzerland,    41 006,    4 203,    34 800,  2 003
-Uzbekistan,    40 338,    2 925,    37 116,    297
-Afghanistan,    38 129,    7 682,    29 046,  1 401
-Costa Rica,    37 292,   22 424,    14 471,    397
-Azerbaijan,    35 844,    1 956,    33 364,    524
-Moldova,    35 546,   10 413,    24 156,    977
-Nepal,    35 529,   15 273,    20 073,    183
-Kenya,    33 389,   13 454,    19 368,    567
-Serbia,    31 099,      859,    29 533,    707
-Ireland,    28 453,    3 312,    23 364,  1 777
-Austria,    26 361,    3 311,    22 317,    733
-Australia*,    25 322,    4 384,    20 366,    572
-El Salvador,    25 284,   11 299,    13 291,    694
-Czechia,    23 169,    5 561,    17 190,    418
-Palestine,    20 677,    6 342,    14 194,    141
+Kyrgyzstan,    43 587,    4 804,    37 726,  1 057
+Armenia,    43 451,    5 318,    37 264,    869
+Algeria,    43 403,   11 484,    30 436,  1 483
+Venezuela,    42 898,    8 393,    34 147,    358
+Switzerland,    41 346,    4 542,    34 800,  2 004
+Uzbekistan,    40 720,    2 545,    37 873,    302
+Costa Rica,    38 485,   23 414,    14 664,    407
+Afghanistan,    38 140,    7 679,    29 059,  1 402
+Nepal,    36 456,   16 019,    20 242,    195
+Azerbaijan,    35 986,    1 998,    33 461,    527
+Moldova,    35 904,   10 767,    24 156,    981
+Kenya,    33 630,   13 629,    19 434,    567
+Serbia,    31 207,      696,    29 802,    709
+Ireland,    28 578,    3 437,    23 364,  1 777
+Austria,    26 590,    3 263,    22 594,    733
+Australia*,    25 448,    4 232,    20 633,    583
+El Salvador,    25 415,   11 143,    13 570,    702
+Czechia,    23 777,    5 861,    17 497,    419
+Palestine,    21 251,    6 815,    14 291,    145
+Bosnia and Herzegovina,    19 214,    5 890,    12 733,    591
 Cameroon,    19 142,    1 080,    17 651,    411
-Bosnia and Herzegovina,    18 920,    5 858,    12 480,    582
-S. Korea,    18 706,    3 932,    14 461,    313
-Cote d'Ivoire,    17 702,    1 448,    16 139,    115
-Denmark,    16 627,    1 240,    14 763,    624
-Bulgaria,    15 908,    4 270,    11 044,    594
-Lebanon,    14 937,   10 658,     4 133,    146
-Paraguay,    14 872,    6 491,     8 134,    247
-Madagascar,    14 592,      722,    13 686,    184
-North Macedonia,    14 004,    2 697,    10 722,    585
-Senegal,    13 294,    4 043,     8 974,    277
-Sudan,    13 045,    5 628,     6 594,    823
-Libya,    12 274,   10 846,     1 209,    219
-Zambia,    11 601,      479,    10 840,    282
-Norway,    10 542,      930,     9 348,    264
-Congo (Kinshasa),     9 915,      640,     9 020,    255
-Greece,     9 531,    5 473,     3 804,    254
-Malaysia,     9 296,      177,     8 994,    125
-Guinea,     9 213,      975,     8 180,     58
-Croatia,     9 192,    2 420,     6 595,    177
-Albania,     9 083,    4 026,     4 791,    266
-French Guiana,     8 982,      416,     8 508,     58
-Gabon,     8 468,    1 349,     7 066,     53
-Tajikistan,     8 449,    1 135,     7 246,     68
-Haiti,     8 151,    2 208,     5 743,    200
-Finland,     8 019,      484,     7 200,    335
+S. Korea,    19 077,    4 210,    14 551,    316
+Cote d'Ivoire,    17 797,    1 367,    16 315,    115
+Denmark,    16 700,    1 199,    14 877,    624
+Bulgaria,    16 065,    4 231,    11 231,    603
+Lebanon,    15 613,   11 205,     4 260,    148
+Paraguay,    15 290,    6 677,     8 348,    265
+Madagascar,    14 696,      800,    13 709,    187
+North Macedonia,    14 163,    2 640,    10 933,    590
+Senegal,    13 384,    4 014,     9 091,    279
+Sudan,    13 082,    5 656,     6 603,    823
+Libya,    12 629,   11 093,     1 310,    226
+Zambia,    11 779,      551,    10 945,    283
+Norway,    10 582,      970,     9 348,    264
+Congo (Kinshasa),     9 994,      704,     9 035,    255
+Greece,     9 800,    5 737,     3 804,    259
+Croatia,     9 549,    2 560,     6 809,    180
+Malaysia,     9 306,      151,     9 030,    125
+Guinea,     9 251,      910,     8 282,     59
+Albania,     9 195,    4 001,     4 923,    271
+French Guiana,     9 022,      378,     8 586,     58
+Gabon,     8 505,    1 265,     7 187,     53
+Tajikistan,     8 481,    1 137,     7 276,     68
+Haiti,     8 161,    2 217,     5 743,    201
+Finland,     8 042,      507,     7 200,    335
 Luxembourg,     7 928,      664,     7 140,    124
-Maldives,     7 329,    2 610,     4 691,     28
-Mauritania,     6 993,      454,     6 381,    158
-Namibia,     6 712,    3 876,     2 776,     60
-Zimbabwe,     6 292,    1 093,     5 010,    189
-Malawi,     5 496,    2 202,     3 121,    173
+Maldives,     7 469,    2 568,     4 873,     28
+Mauritania,     7 012,      447,     6 407,    158
+Namibia,     6 906,    4 052,     2 789,     65
+Zimbabwe,     6 388,    1 150,     5 043,    195
+Malawi,     5 523,    2 206,     3 143,    174
+Hungary,     5 511,    1 138,     3 759,    614
 Djibouti,     5 383,       16,     5 307,     60
-Hungary,     5 379,    1 008,     3 757,    614
-Equatorial Guinea,     4 928,    1 047,     3 798,     83
-Hong Kong,     4 756,      475,     4 200,     81
-Central African Republic,     4 698,    2 855,     1 782,     61
-Montenegro,     4 558,      863,     3 606,     89
+Equatorial Guinea,     4 941,      974,     3 884,     83
+Hong Kong,     4 769,      436,     4 249,     84
+Central African Republic,     4 700,    2 855,     1 784,     61
+Montenegro,     4 663,      840,     3 731,     92
 Nicaragua,     4 494,    1 444,     2 913,    137
-Eswatini,     4 433,    1 229,     3 115,     89
+Eswatini,     4 461,    1 160,     3 210,     91
 Congo (Brazzaville),     3 979,    2 159,     1 742,     78
-Cuba,     3 806,      519,     3 195,     92
-Suriname,     3 724,      799,     2 863,     62
-Cabo Verde,     3 699,      912,     2 749,     38
-Rwanda,     3 672,    1 794,     1 863,     15
-Mozambique,     3 651,    1 662,     1 968,     21
-Slovakia,     3 626,    1 387,     2 206,     33
-Thailand,     3 404,      109,     3 237,     58
-Tunisia,     3 323,    1 746,     1 504,     73
+Cuba,     3 866,      552,     3 222,     92
+Suriname,     3 793,      834,     2 893,     66
+Cabo Verde,     3 745,      900,     2 807,     38
+Rwanda,     3 742,    1 860,     1 866,     16
+Slovakia,     3 728,    1 470,     2 225,     33
+Mozambique,     3 697,    1 621,     2 055,     21
+Tunisia,     3 461,    1 865,     1 522,     74
+Thailand,     3 410,      115,     3 237,     58
 Mayotte,     3 301,      297,     2 964,     40
 Somalia,     3 275,      737,     2 443,     95
-Sri Lanka,     2 986,      144,     2 830,     12
-Lithuania,     2 762,      875,     1 802,     85
-Slovenia,     2 755,      423,     2 199,    133
-Gambia,     2 743,    2 012,       638,     93
-Mali,     2 730,      550,     2 054,    126
-Uganda,     2 679,    1 383,     1 268,     28
-South Sudan,     2 514,    1 177,     1 290,     47
-Syria,     2 504,    1 835,       569,    100
-Angola,     2 415,      975,     1 335,    105
-Estonia,     2 325,      194,     2 067,     64
+Sri Lanka,     2 989,      135,     2 842,     12
+Lithuania,     2 810,      908,     1 816,     86
+Slovenia,     2 797,      428,     2 236,    133
+Gambia,     2 797,    1 958,       743,     96
+Uganda,     2 756,    1 440,     1 288,     28
+Mali,     2 736,      555,     2 055,    126
+Syria,     2 563,    1 876,       584,    103
+South Sudan,     2 518,    1 181,     1 290,     47
+Angola,     2 471,    1 337,     1 028,    106
+Estonia,     2 343,      203,     2 076,     64
 Guinea-Bissau,     2 205,    1 044,     1 127,     34
 Benin,     2 145,      367,     1 738,     40
-Iceland,     2 087,      113,     1 964,     10
+Iceland,     2 092,      118,     1 964,     10
+Bahamas,     2 020,    1 228,       742,     50
 Sierra Leone,     2 013,      362,     1 581,     70
-Yemen,     1 933,      273,     1 098,    562
-Bahamas,     1 923,    1 142,       733,     48
-Aruba,     1 848,    1 232,       608,      8
-Jamaica,     1 804,      939,       846,     19
-Jordan,     1 801,      422,     1 364,     15
-Malta,     1 788,      657,     1 121,     10
-New Zealand,     1 702,      126,     1 554,     22
+Yemen,     1 943,      273,     1 107,    563
+Aruba,     1 906,    1 154,       743,      9
+Jamaica,     1 870,    1 005,       846,     19
+Jordan,     1 869,      487,     1 367,     15
+Malta,     1 820,      624,     1 186,     10
+New Zealand,     1 714,      131,     1 561,     22
 Botswana,     1 633,    1 403,       224,      6
-Uruguay,     1 551,      175,     1 333,     43
-Cyprus,     1 484,      529,       935,     20
-Trinidad and Tobago,     1 476,      867,       594,     15
-Georgia,     1 447,      238,     1 190,     19
-Réunion,     1 410,      712,       692,      6
-Latvia,     1 366,      169,     1 163,     34
+Uruguay,     1 556,      161,     1 352,     43
+Trinidad and Tobago,     1 554,      907,       628,     19
+Réunion,     1 487,      789,       692,      6
+Cyprus,     1 481,      526,       935,     20
+Georgia,     1 455,      240,     1 196,     19
+Latvia,     1 375,      178,     1 163,     34
+Togo,     1 365,      357,       981,     27
 Burkina Faso,     1 352,      239,     1 058,     55
-Togo,     1 326,      353,       946,     27
 Liberia,     1 298,      384,       832,     82
-Niger,     1 173,       20,     1 084,     69
-Guyana,     1 140,      492,       616,     32
-Andorra,     1 098,      152,       893,     53
+Guyana,     1 180,      512,       633,     35
+Niger,     1 175,       21,     1 085,     69
+Guadeloupe,     1 145,      793,       336,     16
+Andorra,     1 124,      169,       902,     53
 Lesotho,     1 051,      494,       526,     31
-Vietnam,     1 036,      369,       637,     30
-Chad,     1 004,       52,       875,     77
-Guadeloupe,       935,      631,       289,     15
-Sao Tome and Principe,       894,       33,       846,     15
-Belize,       818,      752,        54,     12
+Vietnam,     1 038,      345,       663,     30
+Chad,     1 008,       53,       878,     77
+Sao Tome and Principe,       895,       32,       848,     15
+Belize,       870,      765,        93,     12
 Diamond Princess,       712,       48,       651,     13
 San Marino,       710,       10,       658,     42
-Channel Islands,       623,       30,       545,     48
-Burma,       602,      247,       349,      6
+Burma,       643,      288,       349,      6
+Channel Islands,       625,       32,       545,     48
 Martinique,       596,      482,        98,     16
 Tanzania,       509,      305,       183,     21
 Taiwan*,       487,       18,       462,      7
-Turks and Caicos,       464,      359,       102,      3
-Sint Maarten,       442,      246,       179,     17
+Turks and Caicos,       482,      377,       102,      3
+French Polynesia,       482,      280,       202,     NA
+Papua New Guinea,       453,      216,       232,      5
+Sint Maarten,       444,      248,       179,     17
 Burundi,       431,       85,       345,      1
-Papua New Guinea,       424,      188,       232,      4
 Comoros,       422,       16,       399,      7
-French Polynesia,       415,      213,       202,     NA
-Faeroe Islands,       411,       53,       358,     NA
+Faeroe Islands,       411,       50,       361,     NA
 Mauritius,       355,       10,       335,     10
 Isle of Man,       336,        0,       312,     24
-Eritrea,       315,       39,       276,     NA
+Eritrea,       317,       33,       284,     NA
 Mongolia,       301,       10,       291,     NA
-Cambodia,       273,        9,       264,     NA
-Gibraltar,       272,       56,       216,     NA
+Gibraltar,       274,       53,       221,     NA
+Cambodia,       273,        8,       265,     NA
+Saint Martin,       213,      129,        79,      5
 Cayman Islands,       205,        2,       202,      1
-Saint Martin,       198,      141,        52,      5
-Bhutan,       183,       65,       118,     NA
+Bhutan,       184,       65,       119,     NA
 Bermuda,       168,        8,       151,      9
-Barbados,       165,       19,       139,      7
+Barbados,       166,       18,       141,      7
 Brunei,       144,        2,       139,      3
 Seychelles,       136,        9,       127,     NA
-Monaco,       122,       36,        85,      1
-Liechtenstein,       105,        8,        96,      1
+Monaco,       125,       38,        86,      1
+Liechtenstein,       106,        9,        96,      1
 Antigua and Barbuda,        94,        2,        89,      3
-Saint Vincent and the Grenadines,        58,        1,        57,     NA
-Curaçao,        53,       18,        34,      1
+Saint Vincent and the Grenadines,        60,        3,        57,     NA
+Curaçao,        57,       21,        35,      1
 Macao,        46,        0,        46,     NA
+British Virgin Islands,        35,       26,         8,      1
 Fiji,        28,        3,        23,      2
 Timor-Leste,        27,        2,        25,     NA
-British Virgin Islands,        26,       17,         8,      1
 Saint Lucia,        26,        1,        25,     NA
 Grenada,        24,        0,        24,     NA
 New Caledonia,        23,        0,        23,     NA
 Laos,        22,        1,        21,     NA
 Dominica,        20,        2,        18,     NA
-St. Barth,        17,        8,         9,     NA
+St. Barth,        18,        5,        13,     NA
 Saint Kitts and Nevis,        17,        0,        17,     NA
+Caribbean Netherlands,        14,        7,         7,     NA
 Greenland,        14,        0,        14,     NA
 Montserrat,        13,        0,        12,      1
-Caribbean Netherlands,        13,        6,         7,     NA
 Falkland Islands,        13,        0,        13,     NA
 Holy See,        12,        0,        12,     NA
 Western Sahara,        10,        1,         8,      1
 MS Zaandam,         9,        7,        NA,      2
 Saint Pierre Miquelon,         5,        4,         1,     NA
 Anguilla,         3,        0,         3,     NA
-China*,    85 004,      324,    80 046,  4 6
+China*,    85 013,      288,    80 091,  4 6
